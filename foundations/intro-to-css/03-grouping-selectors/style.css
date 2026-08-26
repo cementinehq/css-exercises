@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.left-btn,
+.right-btn {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.left-btn {
+    background-color: hsl(0, 0%, 0%);
+    color: #fcf5f5;
+}
+
+.right-btn {
+    background-color: yellow;
+}
